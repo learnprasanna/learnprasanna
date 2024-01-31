@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @learnprasanna, You can call mne Prasanna.
+- 👋 Hi, I’m @learnprasanna, You can call me Prasanna.
 - 👀 I’m interested in Development and technology when it comes to my career. Outside of that I love tennis, food and video games.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Python projects using Spark and Web development
