@@ -53,14 +53,6 @@ Currently, I’m expanding my expertise in **cloud-native architectures** and **
 
 ---
 
-## 🚀 **What I'm Working On**  
-
-- **Web Development**: Building modern, responsive web applications using **React** and **Node.js**.  
-- **Data Pipelines**: Designing and optimizing **ETL workflows** for large-scale **data processing**.  
-- **Open Source Contributions**: Actively contributing to **Python** and **JavaScript** open-source projects.  
-
----
-
 ## 🌱 **Learning Goals**  
 
 - Advancing my skills in **cloud computing** (AWS, Azure) and **serverless architectures**.  
